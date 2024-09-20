@@ -1,0 +1,47 @@
+{
+    "max_players": 20,
+    "time_for_question": 10,
+    "questions": [
+        {
+            "text": "how many days a regular year has?",
+            "alternatives": [
+                "365",
+                "200",
+                "3"
+            ],
+            "awnser_index": 0
+        },
+        {
+            "text": "the humanity reached the moon?",
+            "alternatives": [
+                "No",
+                "Yes"
+            ],
+            "awnser_index": 1
+        },
+        {
+            "text": "the humanity reached the moon?",
+            "alternatives": [
+                "No",
+                "Yes"
+            ],
+            "awnser_index": 1
+        },
+        {
+            "text": "the humanity reached the jupyter?",
+            "alternatives": [
+                "No",
+                "Yes"
+            ],
+            "awnser_index": 1
+        },
+        {
+            "text": "O BB É GAY?",
+            "alternatives": [
+                "No",
+                "Yes"
+            ],
+            "awnser_index": 1
+        }
+    ]
+}
